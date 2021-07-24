@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1614540907 source:c:\users\ahmed\onedrive\desktop\cycle d'ingénieur\semestre 1\algorithmiques et programmation 1\projet c & asd\dossier c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+
