@@ -16,12 +16,12 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Screenshots***
 <p align="left">
   
-  <img align="left" height="250" src="https://github.com/AhmedHammami7/Management-application-of-wholesaler/blob/main/Screenshots/1.png">
-  <img align="right" height="250" src="https://github.com/AhmedHammami7/Management-application-of-wholesaler/blob/main/Screenshots/3.png">
-  <img align="left" height="250" src="https://github.com/AhmedHammami7/Management-application-of-wholesaler/blob/main/Screenshots/4.png">
-  <img align="right" height="250" src="https://github.com/AhmedHammami7/Management-application-of-wholesaler/blob/main/Screenshots/5.png">
-  <img align="left" height="250" width="450" src="https://github.com/AhmedHammami7/Management-application-of-wholesaler/blob/main/Screenshots/6.png">
-  <img align="right" height="250" src="https://github.com/AhmedHammami7/Management-application-of-wholesaler/blob/main/Screenshots/7.png">
-  <img align="left" height="250" src="https://github.com/AhmedHammami7/Management-application-of-wholesaler/blob/main/Screenshots/8.png">
+  <img align="left" height="200" src="https://github.com/AhmedHammami7/Management-application-of-wholesaler/blob/main/Screenshots/1.png">
+  <img align="right" height="200" src="https://github.com/AhmedHammami7/Management-application-of-wholesaler/blob/main/Screenshots/3.png">
+  <img align="left" height="200" src="https://github.com/AhmedHammami7/Management-application-of-wholesaler/blob/main/Screenshots/4.png">
+  <img align="right" height="200" src="https://github.com/AhmedHammami7/Management-application-of-wholesaler/blob/main/Screenshots/5.png">
+  <img align="left" height="200" width="450" src="https://github.com/AhmedHammami7/Management-application-of-wholesaler/blob/main/Screenshots/6.png">
+  <img align="right" height="200" src="https://github.com/AhmedHammami7/Management-application-of-wholesaler/blob/main/Screenshots/7.png">
+  <img align="left" height="200" src="https://github.com/AhmedHammami7/Management-application-of-wholesaler/blob/main/Screenshots/8.png">
 </p>
   
